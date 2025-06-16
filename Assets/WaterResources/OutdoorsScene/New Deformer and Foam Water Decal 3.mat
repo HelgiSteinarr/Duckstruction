@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Deformer and Foam Water Decal 1
+  m_Name: New Deformer and Foam Water Decal 3
   m_Shader: {fileID: -6465566751694194690, guid: 9f1661ed5b4d6ee4685ad5683b09a903, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -56,9 +56,9 @@ Material:
     - _Remap_Min: 0
     - _Skipped_Waves: 4
     - _TYPE: 2
-    - _Wave_Length: 2.15
+    - _Wave_Length: 0.175
     - _Wave_Offset: 0
-    - _Wave_Speed: 2
+    - _Wave_Speed: 0.3
     m_Colors:
     - _Blend_Distance: {r: 0.1, g: 0.1, b: 0, a: 0}
     - _Breaking_Range: {r: 0.4, g: 0.8, b: 0, a: 0}
